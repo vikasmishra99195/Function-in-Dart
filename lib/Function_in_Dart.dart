@@ -1,5 +1,3 @@
-import 'dart:js_util';
-
 void main(){
   // # Function
   /* ## Syntax
@@ -92,5 +90,12 @@ void main(){
   //   String studentDetail = studentDetails('Vikas');
   //   print(studentDetail);
 
+  // ## Anonymous Function
+
+  // var student = ['Vikas', 'Shiv', 'Ghost'];
+  // student.forEach((value)=>print(value));
+  //
+  // var student1 = ['Vikas', 'Shiv', 'Ghost'];
+  // student1.forEach((element) {print(element);});
 
 }
